@@ -34,20 +34,6 @@
   outline: none;
 }
 
-.pageLayoutHeader {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  justify-content: space-between;
-  padding: 24px 32px;
-  box-sizing: border-box;
-  background-color: #09b0dd;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  color: black;
-  font-size: 16px;
-}
-
 .pageLayoutHeader > h1 {
   font-size: 48px;
 }

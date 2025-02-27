@@ -11,8 +11,8 @@ function App() {
         Your browser does not support the video tag.
       </video>
       <div className="pageLayout">
-        <header className="pageLayoutHeader">
-          <h1>O Jornal .News</h1>
+        <header className="flex items-center justify-between py-6 px-8 bg-cyan-500 rounded-t-2xl text-gray-900">
+          <h1 className="text-4xl">O Jornal .News</h1>
           <div>
             <span>Johann Pachelbel - Canon in D</span>
           </div>
